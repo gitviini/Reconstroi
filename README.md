@@ -5,13 +5,13 @@
 <a href="#backlog">Backlog (Trello)</a>
 
 <h2 id="papeis">Papéis dos integrantes</h2>
-* Scrum Master
-* Designer
-* Designer
-* Desenvolvedor Back-end
-* Desenvolvedor Back-end
-* Desenvolvedor Front-end
-* Desenvolvedor Front-end
+* Scrum Master <br />
+* Designer <br />
+* Designer <br />
+* Desenvolvedor Back-end <br />
+* Desenvolvedor Back-end <br />
+* Desenvolvedor Front-end <br />
+* Desenvolvedor Front-end <br />
 
 <h2 id="backlog">Backlog (Trello)</h2>
 <img src="./src/static/img/trello_uh.png">

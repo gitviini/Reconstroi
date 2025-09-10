@@ -1,5 +1,10 @@
 # Reconstrói :gear:
 
+*ODS 11* - Cidades e Comunidades Sustentáveis <br/>
+*Meta 11.6* - Até 2030, reduzir o impacto ambiental negativo per capita das cidades, melhorando os índices de qualidade do ar e a gestão de resíduos sólidos; e garantir que todas as cidades com acima de 500 mil habitantes tenham implementado sistemas de monitoramento de qualidade do ar e planos de gerenciamento de resíduos sólidos <br/>
+*Solução* - Marketplace de Troca, Negociação e Doação de Materiais de Construção ("Reconstrói").
+Conceito: De acordo com o Panorama dos Resíduos Sólidos de 2020, cerca de 30% dos resíduos produzidos no país vêm da construção civil. Uma plataforma que conecta pessoas que têm sobras de materiais de construção (tijolos, areia, madeira, etc.) de suas reformas com aqueles que precisam desses materiais para pequenas obras ou reparos, especialmente em comunidades de baixa renda. Isso reduz o desperdício e promove a economia circular na construção civil.
+
 ## Sumário
 [Papéis dos integrantes](#papéis-dos-integrantes) <br />
 [Backlog (Trello)](#backlog-trello)

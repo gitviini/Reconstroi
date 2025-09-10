@@ -23,4 +23,4 @@ Conceito: De acordo com o Panorama dos Resíduos Sólidos de 2020, cerca de 30% 
 [Maria Luiza](https://github.com/alumiria) Desenvolvedor Front-end <br />
 
 ## Backlog (Trello)
-![Trello project screenshot](./src/static/img/trello_uh.png)
+![Trello project screenshot](./src/static/img/trello.png)

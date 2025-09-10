@@ -1,7 +1,9 @@
 # Reconstrói :gear:
 
+![Simbolo de reciclagem](./src/static/img/reciclagem.png)
+
 ## Sumário :link:
-[Descriçãoo do projeto](#descrição-do-projeto) <br />
+[Descrição do projeto](#descrição-do-projeto) <br />
 [Papéis dos integrantes](#papéis-dos-integrantes) <br />
 [Backlog (Trello)](#backlog-trello)
 
@@ -16,9 +18,9 @@ Conceito: De acordo com o Panorama dos Resíduos Sólidos de 2020, cerca de 30% 
 [Juliana Comparoto](https://github.com/comparoto) Designer <br />
 [Matheus de Freitas](https://github.com/matheusprojects) Designer <br />
 [Marcos Fraga](https://github.com/MarcTony0) Desenvolvedor Back-end <br />
-[Iza](https://github.com/Iza-Malafaia) Desenvolvedor Back-end <br />
+[Iza Malafaia](https://github.com/Iza-Malafaia) Desenvolvedor Back-end <br />
 [Joanna Farias](https://github.com/Joanna-Farias) Desenvolvedor Front-end <br />
-[Malu](https://github.com/alumiria) Desenvolvedor Front-end <br />
+[Maria Luiza](https://github.com/alumiria) Desenvolvedor Front-end <br />
 
 ## Backlog (Trello)
 ![Trello project screenshot](./src/static/img/trello_uh.png)

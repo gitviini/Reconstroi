@@ -1,6 +1,6 @@
 # Reconstrói :gear:
 
-<img src="./src/static/img/reciclagem.png" width=150 />
+<img src="./src/static/img/logo.png" />
 
 ## Sumário :link:
 [Descrição do projeto](#descrição-do-projeto) <br />

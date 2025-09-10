@@ -4,7 +4,7 @@
 
 ## Sumário :link:
 [Descrição do projeto](#descrição-do-projeto) <br />
-[Equipe](#equipe) <br />
+[Integrantes](#integrantes) <br />
 [Backlog (Trello)](#backlog-trello)
 
 ## Descrição do projeto
@@ -13,7 +13,7 @@
 **Solução** - Marketplace de Troca, Negociação e Doação de Materiais de Construção ("Reconstrói").
 Conceito: De acordo com o Panorama dos Resíduos Sólidos de 2020, cerca de 30% dos resíduos produzidos no país vêm da construção civil. Uma plataforma que conecta pessoas que têm sobras de materiais de construção (tijolos, areia, madeira, etc.) de suas reformas com aqueles que precisam desses materiais para pequenas obras ou reparos, especialmente em comunidades de baixa renda. Isso reduz o desperdício e promove a economia circular na construção civil.
 
-## Equipe
+## Integrantes
 [Vinicius Gabriel](https://github.com/gitviini/) Scrum Master <br />
 [Juliana Comparoto](https://github.com/comparoto) Designer <br />
 [Matheus de Freitas](https://github.com/matheusprojects) Designer <br />
